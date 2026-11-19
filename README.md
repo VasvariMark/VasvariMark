@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Márk! 👋
 
-<!--
-**VasvariMark/VasvariMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Informatics student at Óbuda University, Budapest.
 
-Here are some ideas to get you started:
+💻 Interested in software development, software testing and IT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building:
+
+- **MyLife** – A productivity and fitness tracking PWA with offline support.
+- **AIHub** – An experimental workspace for managing AI tools and workflows.
+
+### Tech Stack
+C# · JavaScript · HTML · CSS · SQL · Python · Git · GitHub
+
+### Currently Exploring
+Software testing · Web applications · AI integration · System design
+
+📍 Budapest, Hungary
+
+📫 Open to IT internship opportunities.
