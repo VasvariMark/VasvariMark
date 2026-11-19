@@ -16,13 +16,22 @@ I enjoy building practical applications, solving technical problems, and improvi
 - 🌱 Exploring software development, QA and AI integration
 - 🎯 Interested in IT internship opportunities
 
+
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript · Python · C# · SQL · HTML · CSS
+**Languages & Web Development**
 
-**Tools & Technologies:** Git · GitHub · Node.js · SQLite · PWA · Playwright · Ollama
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cs,html,css" alt="JavaScript, Python, C#, HTML, CSS" />
+</p>
 
-**Areas of Interest:** Software Development · Software Testing · IT Systems
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,sqlite,vscode" alt="Git, GitHub, Node.js, SQLite, VS Code" />
+</p>
+
+**Also working with:** SQL · PWA · Playwright · Ollama · Software Testing
 
 ## 🚀 Featured Projects
 
