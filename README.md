@@ -58,8 +58,6 @@ AI-assisted tasks with human approval workflows.
 
 **Tech:** Python · JavaScript · SQLite · Ollama
 
-[📂 View Source Code](https://github.com/VasvariMark/aihub)
-
 ## 📫 Connect
 
 📍 Budapest, Hungary
