@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./github-banner.png" alt="Vasvári Márk – GitHub Portfolio Banner" width="100%">
 </p>
+
 ## 👨‍💻 About Me
 
 I'm a Business Informatics student at Óbuda University with a background in IT systems administration and software testing.
