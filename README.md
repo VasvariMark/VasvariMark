@@ -1,20 +1,61 @@
 # Hey, I'm Márk! 👋
 
-🎓 Business Informatics student at Óbuda University, Budapest.
+### Business Informatics Student | Software Development & QA
 
-💻 Interested in software development, software testing and IT systems.
+📍 Budapest, Hungary | 🎓 Óbuda University
 
-🚀 Currently building:
+---
 
-- **MyLife** – A productivity and fitness tracking PWA with offline support.
-- **AIHub** – An experimental workspace for managing AI tools and workflows.
+## 👨‍💻 About Me
 
-### Tech Stack
-C# · JavaScript · HTML · CSS · SQL · Python · Git · GitHub
+I'm a Business Informatics student at Óbuda University with a background in IT systems administration and software testing.
 
-### Currently Exploring
-Software testing · Web applications · AI integration · System design
+I enjoy building practical applications, solving technical problems, and improving software reliability through testing.
+
+- 🔭 Currently working on **MyLife** and **AIHub**
+- 🌱 Exploring software development, QA and AI integration
+- 🎯 Interested in IT internship opportunities
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript · Python · C# · SQL · HTML · CSS
+
+**Tools & Technologies:** Git · GitHub · Node.js · SQLite · PWA · Playwright · Ollama
+
+**Areas of Interest:** Software Development · Software Testing · IT Systems
+
+## 🚀 Featured Projects
+
+### 📱 MyLife
+**Productivity & Fitness Tracking PWA**
+
+A modular web application for managing tasks, habits, workouts, wishlists and journal entries.
+
+- Offline support using Service Workers
+- Versioned local data storage and JSON backups
+- 201 passing automated tests in the latest verified test run
+- Responsive design and browser-based testing
+
+**Tech:** JavaScript, HTML, CSS, PWA, Node.js, Playwright
+
+### 🧠 AIHub
+**Local AI Workflow Management**
+
+An experimental web application for planning and coordinating tasks using a locally hosted AI model.
+
+- Python backend and JavaScript frontend
+- SQLite storage and local Ollama API integration
+- Human approval workflows and task dependencies
+- Automated tests and manual external AI workflows
+
+**Tech:** Python, JavaScript, SQLite, Ollama
+
+## 📫 Connect
 
 📍 Budapest, Hungary
 
-📫 Open to IT internship opportunities.
+💼 Open to software development, QA and IT internship opportunities.
+
+---
+
+*Building, learning and improving — one project at a time.*
