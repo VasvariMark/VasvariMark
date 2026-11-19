@@ -44,17 +44,21 @@ A modular web application for tasks, habits, workouts, wishlist and journal trac
 
 **Tech:** JavaScript · HTML · CSS · PWA · Node.js · Playwright
 
-### 🧠 AIHub
+
+### 🤖 [AIHub](https://github.com/VasvariMark/aihub)
 **Local AI Workflow Management**
 
-An experimental web application for planning and coordinating tasks using a locally hosted AI model.
+A Python-based web application for coordinating
+AI-assisted tasks with human approval workflows.
 
-- Python backend and JavaScript frontend
-- SQLite storage and local Ollama API integration
-- Human approval workflows and task dependencies
-- Automated tests and manual external AI workflows
+- Local AI integration using Ollama
+- SQLite persistence and task dependency management
+- Manual Codex, Claude and Gemini workflows
+- **117/117 automated tests passed**
 
-**Tech:** Python, JavaScript, SQLite, Ollama
+**Tech:** Python · JavaScript · SQLite · Ollama
+
+[📂 View Source Code](https://github.com/VasvariMark/aihub)
 
 ## 📫 Connect
 
