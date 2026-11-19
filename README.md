@@ -32,17 +32,17 @@ I enjoy building practical applications, solving technical problems, and improvi
 
 ## 🚀 Featured Projects
 
-### 📱 MyLife
-**Productivity & Fitness Tracking PWA**
+### 📱 [MyLife](https://github.com/VasvariMark/mylife-pwa)
+**Offline-first Productivity & Fitness Tracking PWA**
 
-A modular web application for managing tasks, habits, workouts, wishlists and journal entries.
+A modular web application for tasks, habits, workouts, wishlist and journal tracking.
 
-- Offline support using Service Workers
+- Offline support with Service Worker
 - Versioned local data storage and JSON backups
-- 201 passing automated tests in the latest verified test run
-- Responsive design and browser-based testing
+- **201/201 automated tests passed**
+- Responsive UI and browser-based testing
 
-**Tech:** JavaScript, HTML, CSS, PWA, Node.js, Playwright
+**Tech:** JavaScript · HTML · CSS · PWA · Node.js · Playwright
 
 ### 🧠 AIHub
 **Local AI Workflow Management**
